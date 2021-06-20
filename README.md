@@ -4,5 +4,6 @@ An emulation of the nanoleaf hexagon tiles because I love how modular the design
 This project will include almost all files and code as I fully believe in open sourcing the world. Anyway the files you can expect to see are
 # CAD
 # MicroController Code
+[NodeMCU hive Mother](docs/hex_controllerTest.ino)
 # Pi Server Code
 # My Music Playlist Cause Why Not
