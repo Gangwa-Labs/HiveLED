@@ -56,13 +56,24 @@ void callback(String topic, byte* message, unsigned int length) {
     Serial.print((char)message[i]);
     messageTemp += (char)message[i];
   }
+  Wire.beginTransmission(8);
   magicNumber = messageTemp.toInt(); //num value of incoming topic message
-  if (magicNumber == 1) { //if the topic is target position
+  Serial.println();
+  if (magicNumber == 1) { 
     Serial.println("on");
+    byte messageSend[] = {1,0,0,2,4};
+    for(int i = 0; i < sizeof(messageSend); i++){
+     Wire.write(messageSend[i]); 
+    }
   }
   if (magicNumber == 0) {
     Serial.println("off");
+    byte messageSend[] = {5,23,5,7};
+    for(int i = 0; i < sizeof(messageSend); i++){
+     Wire.write(messageSend[i]); 
+    }
   }
+  Wire.endTransmission();
   Serial.println();
 }
 
