@@ -4,7 +4,7 @@ An emulation of the nanoleaf hexagon tiles because I love how modular the design
 This project will include almost all files and code as I fully believe in open sourcing the world.
 <img width="522" alt="image" src="https://user-images.githubusercontent.com/64546287/131909341-9e70a783-6f5f-42f5-a034-9b0f13f3220c.png">
 
-# CAD
+# STL for printing
 [Base Hex](Hex.stl)
 
 [Base Cover](top.stl)
@@ -16,6 +16,10 @@ This project will include almost all files and code as I fully believe in open s
 [Controller](Controller.stl)
 
 [Controller Cover](Controller-Top.stl)
+
+# Fusion Files
+
+[HiveLED](HiveLED.f3d)
 
 # MicroController Code
 [NodeMCU Hive Mother](hex_controllerTest.ino)
