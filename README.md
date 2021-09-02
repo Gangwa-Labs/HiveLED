@@ -7,13 +7,13 @@ This project will include almost all files and code as I fully believe in open s
 # CAD
 [Base Hex](Hex.stl)
 
-[LED Bleed cover](Bleed cover.stl)
+[LED Bleed cover](Bleedcover.stl)
 
-[Electronics base](Electronics Cabin.stl)
+[Electronics base](ElectronicsCabin.stl)
 
 [Controller](Controller.stl)
 
-[Controller Cover](Controller Top.stl)
+[Controller Cover](ControllerTop.stl)
 
 # MicroController Code
 [NodeMCU Hive Mother](hex_controllerTest.ino)
