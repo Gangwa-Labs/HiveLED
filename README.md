@@ -5,14 +5,12 @@ This project will include almost all files and code as I fully believe in open s
 <img width="522" alt="image" src="https://user-images.githubusercontent.com/64546287/131909341-9e70a783-6f5f-42f5-a034-9b0f13f3220c.png">
 
 # CAD
-[Base Hex]
-[LED Bleed cover]
-[Electronics base]
-[Controller]
-[Controller Cover]
+[Base Hex](Hex.stl)
+[LED Bleed cover](Bleed cover.stl)
+[Electronics base](Electronics Cabin.stl)
+[Controller](Controller.stl)
+[Controller Cover](Controller Top.stl)
 # MicroController Code
 [NodeMCU Hive Mother](hex_controllerTest.ino)
 
 [Arduino Hex](hex_nanoTest.ino)
-
-# My Music Playlist Cause Why Not
