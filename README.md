@@ -1,3 +1,6 @@
+# Update
+I've stoppped working on this project because I had to go to college and lost the time to update this project and complete it. I plan on coming back to this idea sometime in the future. This is my first time documenting a project using github so I apologize if things don't match a standarized style, I'm learning as I go! 
+
 # HiveLED
 An emulation of the nanoleaf hexagon tiles because I love how modular the design is but I couldn't find anything on it so I'm making my own.
 
