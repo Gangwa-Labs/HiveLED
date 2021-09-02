@@ -7,5 +7,7 @@ This project will include almost all files and code as I fully believe in open s
 [NodeMCU Hive Mother](hex_controllerTest.ino)
 
 [Arduino Hex](hex_nanoTest.ino)
-# Pi Server Code
+# CAD Files for 3D printing
+
+
 # My Music Playlist Cause Why Not
